@@ -1188,6 +1188,45 @@ section.lazy-placeholder:after {
 .cid-s4OVNpHTZX .img-text {
   color: #c1c1c1;
 }
+.cid-s5t1ysfilA {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+}
+.cid-s5t1ysfilA .testimonials-container {
+  margin: 0 auto;
+}
+.cid-s5t1ysfilA .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+  -webkit-justify-content: center;
+}
+.cid-s5t1ysfilA .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-s5t1ysfilA .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-s5t1ysfilA .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-s5t1ysfilA .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-s5t1ysfilA .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+}
+@media (max-width: 260px) {
+  .cid-s5t1ysfilA .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
 .cid-s4TBtpi1D4 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1405,4 +1444,44 @@ section.lazy-placeholder:after {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-s5t1Vvk4Py {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s5t1Vvk4Py .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s5t1Vvk4Py .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s5t1Vvk4Py .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-s5t1Vvk4Py .team-item .item-image img {
+  width: 100%;
+}
+.cid-s5t1Vvk4Py .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-s5t1Vvk4Py .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-s5t1Vvk4Py .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-s5t1Vvk4Py .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-s5t1Vvk4Py .team-item .item-caption {
+  background: #efefef;
 }
