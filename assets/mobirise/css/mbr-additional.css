@@ -1128,7 +1128,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s4OVc0NloY {
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #1a1a1a;
 }
 .cid-s4OVc0NloY .icons-media-container {
   display: flex;
